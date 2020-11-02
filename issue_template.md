@@ -1,7 +1,7 @@
 <!--
   ============================
   ATENÇÃO:
-  1) Remova os comentários HTML abaixo e preencha com os seus dados.
+  1) Remova os comentários HTML e preencha com os seus dados.
 
   2) Não divulgue aqui seu e-mail pessoal e telefone, pois as informações
   abaixo são públicas. Deixe apenas o seu Linkedin para que as empresas
@@ -14,6 +14,7 @@
   - PJ
   - CLT
   - Freela
+  - Estágio
 
   Se você quiser trabalhar somente como CLT, mantenha apenas essa opção.
   
@@ -66,6 +67,7 @@
 - PJ
 - CLT
 - Freela
+- Estágio
 -->
 
 ## Contato
