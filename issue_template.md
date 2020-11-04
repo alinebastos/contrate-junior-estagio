@@ -43,9 +43,9 @@
 
 <!-- Cite sua disponibilidade (de horário, de viagens, de mudança, etc), cursos, palestras. -->
 
-## Especialidades
+## Skills
 
-<!-- Coloque suas especialidades na ordem da mais experiente para a menos experiente. Veja exemplo abaixo.-->
+<!-- Coloque suas skills na ordem da mais experiente para a menos experiente. Veja exemplo abaixo.-->
 
 <!--
 - JavaScript
@@ -59,6 +59,7 @@
 <!--
 - Estágio
 - Júnior
+- Freela
 -->
 
 ## Tipo de contratação
