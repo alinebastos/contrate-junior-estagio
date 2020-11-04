@@ -1,4 +1,4 @@
-<h1 align="center">Espaço para cadastro de pessoas que estão em busca da sua primeira oportunidqade na área de TI.</h1>
+<h1 align="center">Espaço para cadastro de pessoas que estão em busca da sua primeira oportunidade na área de TI.</h1>
 
 ## Qual o objetivo?
 
