@@ -7,16 +7,16 @@
   abaixo são públicas. Deixe apenas o seu Linkedin para que as empresas
   possam entrar em contato.
 
-  3) Para as opções, mantenha a marcação que se adequa as suas habilidades e remova as que não fazem sentido.
+  3) Para as opções, marque o que se adequa ao que você procura.
   
     Por exemplo:
 
-  - PJ
-  - CLT
-  - Freela
-  - Estágio
+  - [ ] PJ
+  - [x] CLT
+  - [ ] Freela
+  - [ ] Estágio
 
-  Se você quiser trabalhar somente como CLT, mantenha apenas essa opção.
+  Se você quiser trabalhar somente como CLT, marque apenas essa opção.
   
   IMPORTANTE: Para visualizar se está tudo correto, antes de publicar seu perfil, clique na 
   aba "Preview".
@@ -54,21 +54,27 @@
 - PHP
 -->
 
-## O que está procurando
+## Áreas de Interesse
+<!-- Coloque todas as áreas com as quais vocẽ deseja trabalhar, adicione alguma se não tiver na lista -->
 
 <!--
-- Estágio
-- Júnior
-- Freela
+- [ ] Frontend
+- [ ] Backend
+- [ ] Fullstack
+- [ ] Mobile
+- [ ] UX
+- [ ] DevOps
+- [ ] Infra
 -->
 
 ## Tipo de contratação
 
 <!--
-- PJ
-- CLT
-- Freela
-- Estágio
+- [ ] PJ
+- [ ] CLT
+- [ ] Estágio
+- [ ] Júnior
+- [ ] Freela
 -->
 
 ## Contato
